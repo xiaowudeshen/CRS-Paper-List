@@ -29,11 +29,16 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 <tr><td colspan="3"><a href="#crs">3. Conversational Recommendation Systems</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#sota-models">2.1 SOTA models</a></td>
-    <td>&ensp;<a href="#other-models">2.2 Other CRS Models</a></td>
+    <td>&emsp;<a href="#sota-models">3.1 SOTA models</a></td>
+    <td>&ensp;<a href="#other-models">3.2 Other CRS Models</a></td>
 </tr> 
 
 <tr><td colspan="2"><a href="#sub-domain-and-specific-topics">4. Sub-domains and specific topics</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#temporal-dynamics">4.1 Temporal Dynamics</a></td>
+    <td>&ensp;<a href="#other-topics">4.2 Other Topics</a></td>
+</tr>     
+    
 <tr><td colspan="2"><a href="#resources">5. Resources</a></td></tr>
 </table>
 
@@ -48,7 +53,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 ## [Models](#content)   
 
-### [Adversarial Models](#basic-models)
+### [Adversarial Models](#models)
 
 Basic Seq2Seq models with attention to generate questions. 
 
@@ -58,40 +63,19 @@ Basic Seq2Seq models with attention to generate questions.
     
     
     
-### [Auto-Encoder Models](#basic-models)
-
-a
-a
-a
-a
-a
-a
-a
-
-a
-a
+### [Auto-Encoder Models](#autoencoder-models)
 
 
 
-### [Content-based Models](#basic-models)
 
-a
-a
-a
-a
-a
-a
-a
-a
 
-a
-a
-a
-a
+### [Content-based Models](#content-based-models)
 
 
 
-### [Knowledge-based Models](#basic-models)
+
+
+### [Knowledge-based Models](#knowledge-based-models)
 
 
 
@@ -99,13 +83,19 @@ a
 
 
 
-### [Neural Models](#basic-models)
+### [Neural Models](#neural-models)
 
 
 
-### [Sequential Models](#basic-models)  
+### [Sequential Models](#sequential-models)  
     
     
     
 ## [CRS](#content)
-### [SOTA Models](#
+### [SOTA Models](#crs)
+
+### [Other Models](#other-models)
+
+
+##[Subdomain and Specific Topics](#sub-domain-and-specific-topics)
+### [Temporal Dynamics](#sub-domain-and-specific-topics)
