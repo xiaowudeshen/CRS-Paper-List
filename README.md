@@ -27,28 +27,14 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
     <td>&emsp;<a href="#sequential-models">2.7 Sequential Models</a></td>
 </tr>
 
-<tr><td colspan="2"><a href="#applications">2. Applications</a></td></tr> 
+<tr><td colspan="3"><a href="#crs">3. Conversational Recommendation Systems</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#temporal-dynamics">2.1 Temporal Dynamics</a></td>
-    <td>&ensp;<a href="#conversational-QG">2.2 Conversational QG</a></td>
+    <td>&emsp;<a href="#sota-models">2.1 SOTA models</a></td>
+    <td>&ensp;<a href="#other-models">2.2 Other CRS Models</a></td>
 </tr> 
-<tr>
-    <td>&emsp;<a href="#asking-deep-questions">2.3 Asking Deep Questions</a></td>
-    <td>&ensp;<a href="#combining-QA-and-QG">2.4 Combining QA and QG</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#QG-from-knowledge-graphs">2.5 QG from knowledge graphs</a></td>
-    <td>&ensp;<a href="#visual-question-generation">2.6 Visual Question Generation</a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#distractor-generation">2.7 Distractor Generation</a></td>
-    <td>&ensp;<a href="#cross-lingual-QG">2.8 Cross-lingual QG</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#clarification-question-generation">2.9 Clarification Question Generation</a></td>
-</tr>
-<tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
-<tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
+
+<tr><td colspan="2"><a href="#sub-domain-and-specific-topics">4. Sub-domains and specific topics</a></td></tr>
+<tr><td colspan="2"><a href="#resources">5. Resources</a></td></tr>
 </table>
 
 ## [Survey papers](#content)
@@ -62,10 +48,16 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 ## [Models](#content)   
 
-### [Basic Seq2Seq Models](#basic-models)
+### [Adversarial Models](#basic-models)
 
 Basic Seq2Seq models with attention to generate questions. 
 
 1. **Learning to ask: Neural question generation for reading comprehension.** ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123.pdf)
 
     *Xinya Du, Junru Shao, Claire Cardie.*
+    
+    
+    
+    
+ ## [CRS](#content)
+ ### [SOTA Models](#
