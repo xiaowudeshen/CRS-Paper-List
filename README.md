@@ -63,6 +63,7 @@ Basic Seq2Seq models with attention to generate questions.
     
     
     
+    
 ### [Auto-Encoder Models](#autoencoder-models)
 
 
@@ -92,10 +93,23 @@ Basic Seq2Seq models with attention to generate questions.
     
     
 ## [CRS](#content)
+
+
+
 ### [SOTA Models](#crs)
+
+
 
 ### [Other Models](#other-models)
 
 
-##[Subdomain and Specific Topics](#sub-domain-and-specific-topics)
+
+## [Subdomain and Specific Topics](#sub-domain-and-specific-topics)
+
+
+
 ### [Temporal Dynamics](#sub-domain-and-specific-topics)
+
+
+## [Resources](#resources)
+
