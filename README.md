@@ -60,12 +60,34 @@ Basic Seq2Seq models with attention to generate questions.
     
 ### [Auto-Encoder Models](#basic-models)
 
+a
+a
+a
+a
+a
+a
+a
+
+a
+a
 
 
 
 ### [Content-based Models](#basic-models)
 
+a
+a
+a
+a
+a
+a
+a
+a
 
+a
+a
+a
+a
 
 
 
