@@ -58,6 +58,32 @@ Basic Seq2Seq models with attention to generate questions.
     
     
     
+### [Auto-Encoder Models](#basic-models)
+
+
+
+
+### [Content-based Models](#basic-models)
+
+
+
+
+
+### [Knowledge-based Models](#basic-models)
+
+
+
+### [Latent Factor Models](#latent-factor-models)
+
+
+
+### [Neural Models](#basic-models)
+
+
+
+### [Sequential Models](#basic-models)  
     
- ## [CRS](#content)
- ### [SOTA Models](#
+    
+    
+## [CRS](#content)
+### [SOTA Models](#
