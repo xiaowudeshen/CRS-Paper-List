@@ -10,29 +10,26 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
+<tr><td colspan="2"><a href="#models">2. Recommendation Models</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#basic-seq2seq-models">2.1 Basic Seq2Seq Models</a></td>
-    <td>&ensp;<a href="#encoding-answers">2.2 Encoding Answers</a></td>
+    <td>&emsp;<a href="#adversarial-models">2.1 Adversarial Models</a></td>
+    <td>&ensp;<a href="#autoencoder-models">2.2 AutoEncoder Models</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#linguistic-features">2.3 Linguistic Features</a></td>
-    <td>&ensp;<a href="#question-specific-rewards">2.4 Question-specific Rewards</a></td>
+    <td>&emsp;<a href="#content-based-models">2.3 Content-based Models</a></td>
+    <td>&ensp;<a href="#knowledge-based-modelss">2.4 Knowledge-based Models</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#content-selection">2.5 Content Selection</a></td>
-    <td>&ensp;<a href="#question-type-modeling">2.6 Question Type Modeling</a></td>
+    <td>&emsp;<a href="#latent-factor-models">2.5 Latent Factor Models</a></td>
+    <td>&ensp;<a href="#neural-models">2.6 Neural Models</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#encode-wider-contexts">2.7 Encode wider contexts</a></td>
-    <td>&ensp;<a href="#qg-with-pretraining">2.8 QG with pretraining</a></td>
+    <td>&emsp;<a href="#sequential-models">2.7 Sequential Models</a></td>
 </tr>
-<tr>
-    <td>&emsp;<a href="#other-directions">2.9 Other Directions</a></td>
-</tr>
+
 <tr><td colspan="2"><a href="#applications">2. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#difficulty-controllable-QG">2.1 Difficulty Controllable QG</a></td>
+    <td>&emsp;<a href="#temporal-dynamics">2.1 Temporal Dynamics</a></td>
     <td>&ensp;<a href="#conversational-QG">2.2 Conversational QG</a></td>
 </tr> 
 <tr>
