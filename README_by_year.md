@@ -1,6 +1,6 @@
-*CRS Peper List**
+*CRS Peper List (sort by year⬇️ )*
 
-**[2021}
+**[2021]**
 
  **Sparse-Interest Network for Sequential Recommendation** ACM, 2021. [Paper](https://arxiv.org/pdf/2102.09267.pdf) 
    
