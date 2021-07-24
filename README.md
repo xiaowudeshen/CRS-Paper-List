@@ -57,12 +57,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 Basic Seq2Seq models with attention to generate questions. 
 
-1. **Learning to ask: Neural question generation for reading comprehension.** ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123.pdf)
 
-    *Xinya Du, Junru Shao, Claire Cardie.*
-    
-    
-    
     
 ### [Auto-Encoder Models](#autoencoder-models)
 
@@ -89,7 +84,9 @@ Basic Seq2Seq models with attention to generate questions.
 
 
 ### [Sequential Models](#sequential-models)  
-    
+1. **Sparse-Interest Network for Sequential Recommendation** ACM, 2021. [Paper](https://arxiv.org/pdf/2102.09267.pdf) 
+   
+   *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao et al.*    
     
     
 ## [CRS](#content)
