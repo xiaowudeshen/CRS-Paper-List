@@ -43,13 +43,23 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 </table>
 
 ## [Survey papers](#content)
-1. **Recent Advances in Neural Question Generation.** arxiv, 2019. [paper](https://arxiv.org/pdf/1905.08949.pdf)
-    
-    *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan* 
 
-2. **A Systematic Review of Automatic Question Generation for Educational Purposes.** International Journal of Artificial Intelligence in Education, 2020. [paper](https://link.springer.com/content/pdf/10.1007/s40593-019-00186-y.pdf)
+**[CRS]**
+
+
+1. **Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems.** 2020. [Paper](https://arxiv.org/pdf/2004.13245.pdf)
+
+    *Dai Hoang Tran, Quan Z. Sheng, Wei Emma Zhang et al*
+   
     
-    *Ghader Kurdi, Jared Leo, Bijan Parsia, Uli Sattler, Salam Al-Emari* 
+2. **A survey on conversational recommender systems.** ACM, 2020. [Paper](https://arxiv.org/pdf/2004.00646.pdf)
+
+    *Dietmar Jannach, Ahtsham Manzoor, Wanling Cai, Li Chen*
+    
+3. **Advances and Challenges in Conversational Recommender Systems: A Survey.** 2021. [Paper](https://arxiv.org/pdf/2101.09459.pdf)
+
+    *Gao, Chongming, Wenqiang Lei, Xiangnan He, Maarten de Rijke, and Tat-Seng Chua.*
+
 
 ## [Models](#content)   
 
