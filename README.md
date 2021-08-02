@@ -75,62 +75,62 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 1. **Towards Explainable Conversational Recommendation** ICJAI, 2020. [Paper](https://www.ijcai.org/proceedings/2020/0414.pdf)
 
-*Zhongxia Chen, Xiting Wang et al*
+    *Zhongxia Chen, Xiting Wang et al*
 
 2. **Conversational Recommender System** 2018, SIGIR. [Paper](https://arxiv.org/pdf/1806.03277)
 
-*Yueming Sun, Yi Zhang*
+    *Yueming Sun, Yi Zhang*
 
 3. **Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems** ACM, 2020. [Paper](https://arxiv.org/pdf/2002.09102.pdf)
 
-*Wenqiang Lei, Xiangnan He, Yisong Miao et al*
+    *Wenqiang Lei, Xiangnan He, Yisong Miao et al*
 
 4. **Interactive Path Reasoning on Graph for Conversational Recommendation** ACM, 2020. [Paper](https://arxiv.org/pdf/2007.00194)
 
-*Wenqiang Lei, Gangyi Zhang, Xiangnan He and Yisong Miao et al*
+    *Wenqiang Lei, Gangyi Zhang, Xiangnan He and Yisong Miao et al*
 
 5. **Towards Conversational Search and Recommendation: System Ask, User Respond** CIKM, 2018. [Paper](http://yongfeng.me/attach/conv-search-rec-zhang2018.pdf)
 
-*Zhang, Yongfeng and Chen, Xu et al*
+    *Zhang, Yongfeng and Chen, Xu et al*
 
 
 ### [Other Models](#other-models)
 
 1. **Towards Conversational Recommender Systems** ACL, 2016. [Paper](https://www.kdd.org/kdd2016/papers/files/rfp0063-christakopoulouA.pdf)
 
-*Konstantina Christakopoulou and Filip Radlinski, Katja Hofmann*
+    *Konstantina Christakopoulou and Filip Radlinski, Katja Hofmann*
 
 2. **Towards Knowledge-Based Recommender Dialog System** ACL, 2019. [Paper](https://arxiv.org/pdf/1908.05391)
 
-*Qibin Chen, Junyang Lin et al*
+    *Qibin Chen, Junyang Lin et al*
 
 3. **RevCore: Review-augmented Conversational Recommendation** 2021, ACL. [Paper](https://arxiv.org/pdf/2106.00957.pdf)
 
-*Yu Lu, Junwei Bao, Yan Son et al*
+    *Yu Lu, Junwei Bao, Yan Son et al*
 
 4. **User Memory Reasoning for Conversational Recommendation** ICCL, 2020. [Paper](https://arxiv.org/pdf/2006.00184)
 
-*Hu Xu, Seungwhan Moon, Honglei Liu et al*
+    *Hu Xu, Seungwhan Moon, Honglei Liu et al*
 
 5. **Preference Elicitation Strategy for Conversational Recommender System** ACM, 2019. [Paper](https://dl.acm.org/doi/abs/10.1145/3289600.3291604)
 
-*Bilih Priyogi*
+    *Bilih Priyogi*
 
 6. **Dynamic Online Conversation Recommendaiton** ACL, 2020. [Paper](https://aclanthology.org/2020.acl-main.305.pdf)
 
-*Zeng, Xingshan and Li, Jing et al*
+    *Zeng, Xingshan and Li, Jing et al*
 
 7. **Evaluating Conversational Recommender Systems via User Simulation** ACM, 2020. [Paper](https://arxiv.org/pdf/2006.08732.pdf)
 
-*Shuo Zhang and Krisztian Balog*
+    *Shuo Zhang and Krisztian Balog*
 
 8. **Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses under the Same Contex.** AAAI, 2019. [Paper](https://arxiv.org/pdf/1911.10484.pdf)
 
-*Yichi Zhang, Zhijian Ou and Zhou Yu*
+    *Yichi Zhang, Zhijian Ou and Zhou Yu*
 
 9. **Q&R: A Two-Stage Approach toward Interactive Recommendation** KDD, 2018. [Paper](https://dl-acm-org.libproxy1.nus.edu.sg/doi/pdf/10.1145/3219819.3219894)
 
-*Konstantina Christakopoulou, Alex Beutel, Rui Li, Sagar Jain, Ed H. Chi*
+    *Konstantina Christakopoulou, Alex Beutel, Rui Li, Sagar Jain, Ed H. Chi*
 
 
 
@@ -162,14 +162,14 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 1. **Dual Graph Attention Networks for DeepLatent Representation of Multifaceted Social Effects in RecommenderSystems** IW3C2, 2019. [Paper](https://arxiv.org/pdf/1903.10433.pdf)
 
-*Qitian Wu, Hengrui Zhang, Xiaofeng Gao et al*
+    *Qitian Wu, Hengrui Zhang, Xiaofeng Gao et al*
 
 
 ### [Neural Models](#neural-models)
 
 1. **Neural Factorization Machines for Sparse Predictive Analytics** ACM, 2017. [Paper](https://arxiv.org/pdf/1708.05027)
 
-*He, Xiangnan and Chua, Tat-Seng*
+    *He, Xiangnan and Chua, Tat-Seng*
 
 ### [Sequential Models](#sequential-models) 
 
@@ -207,27 +207,27 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 1. **The problem of concept drift: definitions andrelated work.** 2004. [Paper](https://www.scss.tcd.ie/publications/tech-reports/reports.04/TCD-CS-2004-15.pdf)
 
-*Alexey Tsymbal*
+    *Alexey Tsymbal*
 
 2. **Inductive Representation Learning on Temporal Graphs** ICLR, 2020. [Paper](https://arxiv.org/pdf/2002.07962.pdf)
 
-*Da Xu, Chuanwei Ruan, Evren Körpeoglu, Sushant Kumar, and KannanAchan*
+    *Da Xu, Chuanwei Ruan, Evren Körpeoglu, Sushant Kumar, and KannanAchan*
 
 3. **Tem-poral  Graph  Signal  Decomposition** ACM, 2021. [Paper](https://arxiv.org/pdf/2106.13517.pdf)
 
-*Maxwell  McNeil,  Lin  Zhang,  and  Petko  Bogdanov.*
+    *Maxwell  McNeil,  Lin  Zhang,  and  Petko  Bogdanov.*
 
 4. **Regularized Content-Aware Tensor Fac-torization Meets Temporal-Aware Location Recommendation.** ICDM, 2016. [Paper](https://doi.org/10.1109/ICDM.2016.0131)
 
-*Defu Lian, Zhenyu Zhang, Yong Ge*
+    *Defu Lian, Zhenyu Zhang, Yong Ge*
 
 5. **ession-based Recommendations with Re-current Neural Networks** ICLR, 2016. [Paper](https://arxiv.org/pdf/1511.06939.pdf)
 
-*Balázs   Hidasi,   Alexandros   Karatzoglou,   Linas   Baltrunas,   andDomonkos Tikk.*
+    *Balázs   Hidasi,   Alexandros   Karatzoglou,   Linas   Baltrunas,   andDomonkos Tikk.*
 
 6. **No Country for Old Members:User Lifecycle and Linguistic Change in Online Communities** IW3C2, 2013. [Paper](https://nlp.stanford.edu/pubs/linguistic_change_lifecycle.pdf)
 
-*Cristian Danescu-Niculescu-Mizil, Robert West, Dan Jurafsky, JureLeskovec, and Christopher Potts*
+    *Cristian Danescu-Niculescu-Mizil, Robert West, Dan Jurafsky, JureLeskovec, and Christopher Potts*
 
 
 
