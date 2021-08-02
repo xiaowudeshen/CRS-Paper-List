@@ -195,7 +195,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
    
  3. **Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation** AAAI, 2021. [Paper](https://arxiv.org/pdf/2103.03578)
    
-   *Chang Liu, Xiaoguang Li, Guohao Cai et al*
+    *Chang Liu, Xiaoguang Li, Guohao Cai et al*
     
   
 
