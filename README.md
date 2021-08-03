@@ -217,11 +217,11 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
     *Maxwell  McNeil,  Lin  Zhang,  and  Petko  Bogdanov.*
 
-4. **Regularized Content-Aware Tensor Fac-torization Meets Temporal-Aware Location Recommendation.** ICDM, 2016. [Paper](https://doi.org/10.1109/ICDM.2016.0131)
+4. **Regularized Content-Aware Tensor Factorization Meets Temporal-Aware Location Recommendation.** ICDM, 2016. [Paper](https://doi.org/10.1109/ICDM.2016.0131)
 
     *Defu Lian, Zhenyu Zhang, Yong Ge*
 
-5. **ession-based Recommendations with Re-current Neural Networks** ICLR, 2016. [Paper](https://arxiv.org/pdf/1511.06939.pdf)
+5. **Session-based Recommendations with Recurrent Neural Networks** ICLR, 2016. [Paper](https://arxiv.org/pdf/1511.06939.pdf)
 
     *Balázs   Hidasi,   Alexandros   Karatzoglou,   Linas   Baltrunas,   andDomonkos Tikk.*
 
