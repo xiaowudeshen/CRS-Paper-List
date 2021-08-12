@@ -1,3 +1,5 @@
+
+<table>
 <tr><td colspan="2"><a href="#models">3. Recommendation Models</a></td></tr>
 <tr>
     <td>&emsp;<a href="#adversarial-models">3.1 Adversarial Models</a></td>
@@ -11,7 +13,7 @@
     <td>&emsp;<a href="#latent-factor-models">3.5 Latent Factor Models</a></td>
     <td>&ensp;<a href="#neural-models">3.6 Neural Models</a></td>
 </tr>
-
+</table>
 
 ## [Models](#content)   
 
