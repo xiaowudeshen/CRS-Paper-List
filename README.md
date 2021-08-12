@@ -17,20 +17,9 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
     <td>&ensp;<a href="#other-models">2.2 Other CRS Models</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#models">3. Recommendation Models</a></td></tr>
+
 <tr>
-    <td>&emsp;<a href="#adversarial-models">3.1 Adversarial Models</a></td>
-    <td>&ensp;<a href="#autoencoder-models">3.2 AutoEncoder Models</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#content-based-models">3.3 Content-based Models</a></td>
-    <td>&ensp;<a href="#knowledge-based-modelss">3.4 Knowledge-based Models</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#latent-factor-models">3.5 Latent Factor Models</a></td>
-    <td>&ensp;<a href="#neural-models">3.6 Neural Models</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#sequential-models">3.7 Sequential Models</a></td>
+    <td>&emsp;<a href="#sequential-models">3.1 Sequential Models</a></td>
 </tr>
 
 <tr><td colspan="2"><a href="#sub-domain-and-specific-topics">4. Sub-domains and specific topics</a></td></tr>
@@ -137,39 +126,6 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 ## [Models](#content)   
 
-### [Adversarial Models](#models)
- 
-
-
-    
-### [Auto-Encoder Models](#autoencoder-models)
-
-
-
-
-
-### [Content-based Models](#content-based-models)
-
-
-
-
-
-### [Knowledge-based Models](#knowledge-based-models)
-
-
-
-### [Latent Factor Models](#latent-factor-models)
-
-1. **Dual Graph Attention Networks for DeepLatent Representation of Multifaceted Social Effects in RecommenderSystems** IW3C2, 2019. [Paper](https://arxiv.org/pdf/1903.10433.pdf)
-
-    *Qitian Wu, Hengrui Zhang, Xiaofeng Gao et al*
-
-
-### [Neural Models](#neural-models)
-
-1. **Neural Factorization Machines for Sparse Predictive Analytics** ACM, 2017. [Paper](https://arxiv.org/pdf/1708.05027)
-
-    *He, Xiangnan and Chua, Tat-Seng*
 
 ### [Sequential Models](#sequential-models) 
 
@@ -196,6 +152,10 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
  3. **Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation** AAAI, 2021. [Paper](https://arxiv.org/pdf/2103.03578)
    
     *Chang Liu, Xiaoguang Li, Guohao Cai et al*
+    
+ 4. **Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation** IW3C2, 2020. [Paper](https://arxiv.org/pdf/2002.00741.pdf)
+
+    *Jibang Wu, Renqin Cai and Hongning Wang*
     
   
 
