@@ -131,6 +131,12 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 ### [Sequential Models](#sequential-models) 
 
+**[Survey]**
+
+1. **Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations.** ACM, 2020. [Paper](https://arxiv.org/pdf/1905.01997.pdf)
+
+    *Hui Fang, Danning Zhang, Yiheng Shu, and Guibing Guo*
+    
 **[Markov Chain]**
 
 1. **Factorizing personalized markov chains for next-basket recommendation.** IW3C2, 2010. [Paper](https://dl.acm.org/doi/10.1145/1772690.1772773)
