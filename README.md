@@ -115,7 +115,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
     *Konstantina Christakopoulou, Alex Beutel, Rui Li, Sagar Jain, Ed H. Chi*
     
     
-#### [Content-based CRS]
+** [Content-based CRS] **
 
     **"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems** 2021 [Paper](http://arxiv.org/abs/2109.07576)
     
