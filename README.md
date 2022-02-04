@@ -23,7 +23,22 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
     <td>&ensp;<a href="#evaluations">2.6 Evaluation Models</a></td>
     <td>&ensp;<a href="#other-models">2.7 Other Models</a></td>
 </tr> 
- 
+<tr>
+
+    <td>&ensp;<a href="#social-models">2.3 Social CRS Models</a></td>
+    <td>&ensp;<a href="#dynamic-models">2.4 Dynamic Models</a></td>
+
+</tr> 
+<tr>
+
+    <td>&ensp;<a href="#explain-models">2.5 Explainable Models</a></td>
+    <td>&ensp;<a href="#evaluations">2.6 Evaluation Models</a></td>
+   
+</tr> 
+<tr>
+
+    <td>&ensp;<a href="#other-models">2.7 Other Models</a></td>
+</tr> 
     
 <tr><td colspan="2"><a href="#resources">3. Resources</a></td></tr>
 </table>
