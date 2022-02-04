@@ -114,10 +114,12 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
     *Konstantina Christakopoulou, Alex Beutel, Rui Li, Sagar Jain, Ed H. Chi*
     
-    
-** [Content-based CRS] **
+   
+### [Content-based Models](#other-models)
 
-    **"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems** 2021 [Paper](http://arxiv.org/abs/2109.07576)
+   **"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems** 2021 [Paper](http://arxiv.org/abs/2109.07576)
+   
+   *Victor S. Bursztyn1, Jennifer Healey2, Nedim Lipka2, Eunyee Koh2, Doug Downey1,3, and Larry Birnbaum1*
     
 
 
