@@ -17,11 +17,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 <tr>
     <td>&emsp;<a href="#sota-models">2.1 SOTA models</a></td>
     <td>&ensp;<a href="#cb-models">2.2 Content-based Models</a></td>
-    <td>&ensp;<a href="#social-models">2.3 Social CRS Models</a></td>
-    <td>&ensp;<a href="#dynamic-models">2.4 Dynamic Models</a></td>
-    <td>&ensp;<a href="#explain-models">2.5 Explainable Models</a></td>
-    <td>&ensp;<a href="#evaluations">2.6 Evaluation Models</a></td>
-    <td>&ensp;<a href="#other-models">2.7 Other Models</a></td>
+
 </tr> 
 <tr>
 
