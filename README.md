@@ -18,19 +18,9 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
     <td>&emsp;<a href="#sota-models">2.1 SOTA models</a></td>
     <td>&ensp;<a href="#other-models">2.2 Other CRS Models</a></td>
 </tr> 
-<tr><td colspan="2"><a href="#models">3. Recommendation Models</a></td></tr>
-
-<tr>
-    <td>&emsp;<a href="#sequential-models">3.1 Sequential Models</a></td>
-</tr>
-
-<tr><td colspan="2"><a href="#sub-domain-and-specific-topics">4. Sub-domains and specific topics</a></td></tr>
-<tr>
-    <td>&emsp;<a href="#temporal-dynamics">4.1 Temporal Dynamics</a></td>
-    <td>&ensp;<a href="#other-topics">4.2 Other Topics</a></td>
-</tr>     
+ 
     
-<tr><td colspan="2"><a href="#resources">5. Resources</a></td></tr>
+<tr><td colspan="2"><a href="#resources">3. Resources</a></td></tr>
 </table>
 
 ## [Survey papers](#content)
@@ -87,6 +77,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 ### [Other Models](#other-models)
 
+
 1. **Towards Conversational Recommender Systems** ACL, 2016. [Paper](https://www.kdd.org/kdd2016/papers/files/rfp0063-christakopoulouA.pdf)
 
     *Konstantina Christakopoulou and Filip Radlinski, Katja Hofmann*
@@ -122,80 +113,17 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 9. **Q&R: A Two-Stage Approach toward Interactive Recommendation** KDD, 2018. [Paper](https://dl-acm-org.libproxy1.nus.edu.sg/doi/pdf/10.1145/3219819.3219894)
 
     *Konstantina Christakopoulou, Alex Beutel, Rui Li, Sagar Jain, Ed H. Chi*
-
-
-
-
-## [Models](#content)   
-
-
-### [Sequential Models](#sequential-models) 
-
-**[Survey]**
-
-1. **Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations.** ACM, 2020. [Paper](https://arxiv.org/pdf/1905.01997.pdf)
-
-    *Hui Fang, Danning Zhang, Yiheng Shu, and Guibing Guo*
     
-**[Markov Chain]**
-
-1. **Factorizing personalized markov chains for next-basket recommendation.** IW3C2, 2010. [Paper](https://dl.acm.org/doi/10.1145/1772690.1772773)
-
-   *Steffen Rendle, Christoph Freudenthaler, and Lars Schmidt-Thieme.*
-   
-2. **Where you like to go next: Successive point-of-interest recommendation.** IJCAI, 2013. [Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.7078&rep=rep1&type=pdf)
-
-    *Chen Cheng, Haiqin Yang, Michael R Lyu, and Irwin King.*
-
-**[Neural Network]**
-
-1. **Recurrent Recommender Network** WSDM, 2017. [Paper](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/rrn_wsdm2017.pdf)
-
-    *Chao-Yuan Wu, Amr Ahmed, Alex Beutel, Alexander J. Smola, and How Jing.*
-
-2. **Sparse-Interest Network for Sequential Recommendation** ACM, 2021. [Paper](https://arxiv.org/pdf/2102.09267.pdf) 
-   
-   *Qiaoyu Tan, Jianwei Zhang, Jiangchao Yao et al.*  
-   
- 3. **Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation** AAAI, 2021. [Paper](https://arxiv.org/pdf/2103.03578)
-   
-    *Chang Liu, Xiaoguang Li, Guohao Cai et al*
     
- 4. **Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation** IW3C2, 2020. [Paper](https://arxiv.org/pdf/2002.00741.pdf)
+#### [Content-based CRS]
 
-    *Jibang Wu, Renqin Cai and Hongning Wang*
+    **"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems** 2021 [Paper](http://arxiv.org/abs/2109.07576)
     
-  
 
 
-## [Subdomain and Specific Topics](#sub-domain-and-specific-topics)
 
 
-### [Temporal Dynamics](#sub-domain-and-specific-topics)
 
-1. **The problem of concept drift: definitions andrelated work.** 2004. [Paper](https://www.scss.tcd.ie/publications/tech-reports/reports.04/TCD-CS-2004-15.pdf)
-
-    *Alexey Tsymbal*
-
-2. **Inductive Representation Learning on Temporal Graphs** ICLR, 2020. [Paper](https://arxiv.org/pdf/2002.07962.pdf)
-
-    *Da Xu, Chuanwei Ruan, Evren Körpeoglu, Sushant Kumar, and KannanAchan*
-
-3. **Tem-poral  Graph  Signal  Decomposition** ACM, 2021. [Paper](https://arxiv.org/pdf/2106.13517.pdf)
-
-    *Maxwell  McNeil,  Lin  Zhang,  and  Petko  Bogdanov.*
-
-4. **Regularized Content-Aware Tensor Factorization Meets Temporal-Aware Location Recommendation.** ICDM, 2016. [Paper](https://doi.org/10.1109/ICDM.2016.0131)
-
-    *Defu Lian, Zhenyu Zhang, Yong Ge*
-
-5. **Session-based Recommendations with Recurrent Neural Networks** ICLR, 2016. [Paper](https://arxiv.org/pdf/1511.06939.pdf)
-
-    *Balázs   Hidasi,   Alexandros   Karatzoglou,   Linas   Baltrunas,   andDomonkos Tikk.*
-
-6. **No Country for Old Members:User Lifecycle and Linguistic Change in Online Communities** IW3C2, 2013. [Paper](https://nlp.stanford.edu/pubs/linguistic_change_lifecycle.pdf)
-
-    *Cristian Danescu-Niculescu-Mizil, Robert West, Dan Jurafsky, JureLeskovec, and Christopher Potts*
 
 
 
