@@ -13,31 +13,25 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
     
-<tr><td colspan="3"><a href="#crs">2. Conversational Recommendation Systems</a></td></tr> 
+<tr><td colspan="2"><a href="#Conversation-based CRS Models">2. Conversation-based CRS Models</a></td></tr> 
     
 <tr>
-    <td>&emsp;<a href="#sota-models">2.1 SOTA models</a></td>
-    <td>&ensp;<a href="#cb-models">2.2 Content-based Models</a></td>
-</tr> 
+    <td>&emsp;<a href="#Understanding-based">2.1 Understanding-based CRS Models</a></td>
+</tr>
 <tr>
-    <td>&ensp;<a href="#social-models">2.3 Social CRS Models</a></td>
-    <td>&ensp;<a href="#dynamic-models">2.4 Dynamic Models</a></td>
-</tr> 
+     <td>&emsp;<a href="#Generation-based">2.2 Generation-based CRS Models</a></td>
+</tr>
 <tr>
-    <td>&ensp;<a href="#explain-models">2.5 Explainable Models</a></td>
-    <td>&ensp;<a href="#evaluations">2.6 Evaluation Models</a></td>
+     <td>&emsp;<a href="#Knowledge-enhanced">2.2 Knowledge-enhanced CRS Models</a></td>
 </tr> 
+<tr><td colspan="2"><a href="#Simulation-based">3. Simulation-based CRS Models</a></td></tr> 
     
-<tr>
-    <td>&ensp;<a href="#other-models">2.7 Other Models</a></td>
-</tr> 
     
-<tr><td colspan="2"><a href="#resources">3. Resources</a></td></tr>
+<tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
 </table>
 
 ## [Survey papers](#content)
 
-**[CRS]**
 
 
  **Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems.** 2020. [Paper](https://arxiv.org/pdf/2004.13245.pdf)
@@ -58,14 +52,20 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
    *Wenqing Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua*
     
 
-## [CRS](#content)
 
 
 
-### [SOTA Models](#crs)
 
+## [Conversation-based CRS Models](#content)
 
-
+   **"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems** 2021 [Paper](http://arxiv.org/abs/2109.07576)
+   
+   *Victor S. Bursztyn1, Jennifer Healey2, Nedim Lipka2, Eunyee Koh2, Doug Downey1,3, and Larry Birnbaum1*
+   
+ **Towards Knowledge-Based Recommender Dialog System** ACL, 2019. [Paper](https://arxiv.org/pdf/1908.05391)
+    *Qibin Chen, Junyang Lin et al*
+    
+ 
  **Towards Explainable Conversational Recommendation** ICJAI, 2020. [Paper](https://www.ijcai.org/proceedings/2020/0414.pdf)
 
   *Zhongxia Chen, Xiting Wang et al*
@@ -73,6 +73,21 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
  **Conversational Recommender System** 2018, SIGIR. [Paper](https://arxiv.org/pdf/1806.03277)
 
   *Yueming Sun, Yi Zhang*
+  
+ **INSPIRED: Toward Sociable Recommendation Dialog Systems>** ACM, 2020. [Paper](https://aclanthology.org/2020.emnlp-main.654.pdf)
+ 
+  *Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi & Zhou Yu*
+    
+  **Evaluating Conversational Recommender Systems via User Simulation** ACM, 2020. [Paper](https://arxiv.org/pdf/2006.08732.pdf)
+
+  *Shuo Zhang and Krisztian Balog*
+
+
+
+## [Simulation-based CRS Models](#content)
+
+
+
 
  **Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems** ACM, 2020. [Paper](https://arxiv.org/pdf/2002.09102.pdf)
 
@@ -87,28 +102,6 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
   *Zhang, Yongfeng and Chen, Xu et al*
 
 
-
-    
-   
-### [Content-based Models](#cb-models)
-
-   **"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems** 2021 [Paper](http://arxiv.org/abs/2109.07576)
-   
-   *Victor S. Bursztyn1, Jennifer Healey2, Nedim Lipka2, Eunyee Koh2, Doug Downey1,3, and Larry Birnbaum1*
-   
- **Towards Knowledge-Based Recommender Dialog System** ACL, 2019. [Paper](https://arxiv.org/pdf/1908.05391)
-
-    *Qibin Chen, Junyang Lin et al*
-   
-   
-### [Social CRS](#social-models)
- **INSPIRED: Toward Sociable Recommendation Dialog Systems>** ACM, 2020. [Paper](https://aclanthology.org/2020.emnlp-main.654.pdf)
- 
- *Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi & Zhou Yu*
-    
-
-### [Dynamic Models](#dynamic-models)
-
   **User Memory Reasoning for Conversational Recommendation** ICCL, 2020. [Paper](https://arxiv.org/pdf/2006.00184)
 
    *Hu Xu, Seungwhan Moon, Honglei Liu et al*
@@ -117,16 +110,6 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
   *Zeng, Xingshan and Li, Jing et al*
 
-### [Explainable Models](#explain-models)
-
-### [Evaluations](#evaluations)
-
-  **Evaluating Conversational Recommender Systems via User Simulation** ACM, 2020. [Paper](https://arxiv.org/pdf/2006.08732.pdf)
-
-  *Shuo Zhang and Krisztian Balog*
-
-
-### [Other Models](#other-models)
 
 
  **Towards Conversational Recommender Systems** ACL, 2016. [Paper](https://www.kdd.org/kdd2016/papers/files/rfp0063-christakopoulouA.pdf)
@@ -165,6 +148,8 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 
 ## [Resources](#resources)
 
+### [Dataset]
+
  **Restraurant review critique data: <"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems>** [Source](https://github.com/vbursztyn/critique-to-preference-emnlp2021)
  
  **INSPIRED movie dataset: <INSPIRED: Toward Sociable Recommendation Dialog Systems>**[Source](https://aclanthology.org/2020.emnlp-main.654.pdf)
@@ -175,5 +160,8 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
  
  **ReDial <Towards Deep Conversational Recommendations>**[Source](https://papers.nips.cc/paper/2018/hash/800de15c79c8d840f4e78d3af937d4d4-Abstract.html)
  
+ ### [CRS Library]
  
-
+  **CRSLab** is an open-source toolkit for building Conversational Recommender System (CRS)[Source](https://github.com/RUCAIBox/CRSLab)
+ 
+  **Transformers4Rec** is a flexible and efficient library for sequential and session-based recommendation and can work with PyTorch.[Source](https://github.com/NVIDIA-Merlin/Transformers4Rec)
