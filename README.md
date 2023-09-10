@@ -1,10 +1,10 @@
 [//]:<!the template comes from this repo: https://github.com/teacherpeterpan/Question-Generation-Paper-List>
 
 # CRS-Paper-List
-In this repository, we summarise a paper list of works in conversational recommendation system and its related areas.
+In this repository, we summarise a paper list of works in conversational recommendation systems and their related areas.
 
 
-- Contributed by **[Victor Li Chuang](github.com/xiaowudeshen)** and collaboration is welcome for anyone interested in this repo.
+- Contributed by **[Victor Li Chuang](https://lichuangnus.github.io/)** and collaboration is welcome.
 - Our survey paper on holistic CRS has been accepted to the KaRS Workshop, RecSys 2023, Singapore. 
 - Please follow [this link](./README_by_year.md) to view papers chronologically. 
 
