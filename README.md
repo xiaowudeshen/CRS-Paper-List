@@ -38,7 +38,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 </tr>
 </table>
 
-![alt text](taxonomy.png)
+<img src="tax.png" alt="Alt text" width="400" height="333"/>
 
 
 ## [Survey papers](#content)
