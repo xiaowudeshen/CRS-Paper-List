@@ -316,7 +316,6 @@ In this repository, we summarise a paper list of works in conversational recomme
  
  **INSPIRED movie dataset: <INSPIRED: Toward Sociable Recommendation Dialog Systems>**[Source](https://aclanthology.org/2020.emnlp-main.654.pdf)
  
- **ConvRec dataset <Conversational Recommender System> **[Source](https://arxiv.org/pdf/1806.03277.pdf)
     
  **GoRecDial <Recommendation as a Communication Game:Self-Supervised Bot-Play for Goal-oriented Dialogue>**[Source](https://aclanthology.org/D19-1203.pdf)
  
