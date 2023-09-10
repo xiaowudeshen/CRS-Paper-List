@@ -8,7 +8,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 - Our survey paper on holistic CRS has been accepted to the KaRS Workshop, RecSys 2023, Singapore. 
 - Please follow [this link](./README_by_year.md) to view papers chronologically. 
 
-![alt text](Figure1.png)
+<img src="Figure1.png" alt="Alt text" width="700" >
 
 ## [Content](#content)
 
@@ -38,7 +38,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 </tr>
 </table>
 
-<img src="tax.png" alt="Alt text" width="400" height="333"/>
+<img src="tax.png" alt="Alt text" width="400" height="333">
 
 
 ## [Survey papers](#content)
