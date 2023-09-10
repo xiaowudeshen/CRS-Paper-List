@@ -12,7 +12,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 
 ## [Content](#content)
 
-<table>
+<table align="left">
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
     
 <tr><td colspan="2"><a href="#lm-based-holitic-crs-methods">2.Holistic CRS Models</a></td></tr> 
@@ -37,6 +37,9 @@ In this repository, we summarise a paper list of works in conversational recomme
      <td>&emsp;<a href="#crs-libraries">4.2 CRS Libraries</a></td>
 </tr>
 </table>
+
+![alt text](taxonomy.png)
+
 
 ## [Survey papers](#content)
 
