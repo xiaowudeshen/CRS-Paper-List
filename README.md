@@ -6,8 +6,9 @@ In this repository, we summarise a paper list of works in conversational recomme
 
 - Contributed by **[Victor Li Chuang](github.com/xiaowudeshen)** and collaboration is welcome for anyone interested in this repo.
 - Our survey paper on holistic CRS has been accepted to the KaRS Workshop, RecSys 2023, Singapore. 
+- Please follow [this link](./README_by_year.md) to view papers chronologically. 
 
-Please follow [this link](./README_by_year.md) to view papers chronologically. 
+![alt text](Figure1.png)
 
 ## [Content](#content)
 
