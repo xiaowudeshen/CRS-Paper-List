@@ -1,10 +1,11 @@
 [//]:<!the template comes from this repo: https://github.com/teacherpeterpan/Question-Generation-Paper-List>
 
 # CRS-Paper-List
-In this repository, we summary a paper list of works in conversational recommendation system and its related areas.
+In this repository, we summarise a paper list of works in conversational recommendation system and its related areas.
 
 
 - Contributed by **[Victor Li Chuang](github.com/xiaowudeshen)** and collaboration is welcome for anyone interested in this repo.
+- Our survey paper on holistic CRS has been accepted to the KaRS Workshop, RecSys 2023, Singapore. 
 
 Please follow [this link](./README_by_year.md) to view papers chronologically. 
 
@@ -13,16 +14,16 @@ Please follow [this link](./README_by_year.md) to view papers chronologically.
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
     
-<tr><td colspan="2"><a href="#conversation-based-crs-models">2.Holistic CRS Models</a></td></tr> 
+<tr><td colspan="2"><a href="#lm-based-holitic-crs-methods">2.Holistic CRS Models</a></td></tr> 
     
 <tr>
-    <td>&emsp;<a href="#understanding-based-methods">2.1 Language Model based Holistic CRS</a></td>
+    <td>&emsp;<a href="#lm-based-holitic-crs-methods">2.1 Language Model-based Holistic CRS</a></td>
 </tr>
 <tr>
-     <td>&emsp;<a href="#generation-based-methods">2.2 Knowledge-enhanced Holitic CRS</a></td>
+     <td>&emsp;<a href="#knowledge-enhanced-holistic-crs-models">2.2 Knowledge-enhanced Holitic CRS</a></td>
 </tr>
 <tr>
-     <td>&emsp;<a href="#knowledge-enhanced-methods">2.2 External Guidance in Holistic CRS</a></td>
+     <td>&emsp;<a href="#external-guidance-in-holistic-crs-methods">2.3 External Guidance in Holistic CRS</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#simulation-based-crs-models">3. Standard CRS Models</a></td></tr> 
     
@@ -101,6 +102,7 @@ Please follow [this link](./README_by_year.md) to view papers chronologically.
   *Yang Deng, Wenxuan Zhang, Weiwen Xu, Wenqiang Lei, Tat-Seng Chua, Wai Lam*
   
 **Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning**2023 [Paper](https://arxiv.org/abs/2210.05901)
+ 
   *Hui-Chi Kuo, Yun-Nung Chen*
   
  **Conversational Recommender System** 2018, SIGIR. [Paper](https://arxiv.org/pdf/1806.03277)
