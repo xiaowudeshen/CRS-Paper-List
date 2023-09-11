@@ -4,11 +4,11 @@
 In this repository, we summarise a paper list of works in conversational recommendation systems and their related areas.
 
 
-- Contributed by **[Victor Li Chuang](https://lichuangnus.github.io/)** and collaboration is welcome.
+- Contributed by **[Victor Li](https://lichuangnus.github.io/)** and collaboration is welcome.
 - Our survey paper on holistic CRS has been accepted to the KaRS Workshop, RecSys 2023, Singapore. 
 - Please follow [this link](./README_by_year.md) to view papers chronologically. 
 
-<img src="Figure1.png" alt="Alt text" width="700" >
+<img src="Figure1.png" alt="Alt text" width="700">
 
 ## [Content](#content)
 
@@ -38,7 +38,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 </tr>
 </table>
 
-<img src="tax.png" alt="Alt text" width="400" height="333">
+<img src="tax.png" alt="Alt text"  height="333">
 
 
 ## [Survey papers](#content)
@@ -117,6 +117,21 @@ In this repository, we summarise a paper list of works in conversational recomme
 
 ## [Knowledge-enhanced Holistic CRS Models](#content)
 
+**LATTE: A Framework for Learning Item-Features to Make a Domain-Expert for Effective Conversational Recommendation** 2023 [Paper](https://dl.acm.org/doi/10.1145/3580305.3599401)
+ *Taeho Kim, Juwon Yu, Won-Yong Shin, Hyunyoung Lee, Ji-hui Im, Sang-Wook Kim*
+
+ **Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning**. 2022  [Paper](https://arxiv.org/abs/2206.09363)
+
+  *Xiaolei Wang, Kun Zhou, Ji-Rong Wen, Wayne Xin Zhao*
+  
+**TREA: Tree-structure Reasoning Schema for Conversational Recommendation**. 2023 [Paper](https://aclanthology.org/2023.acl-long.167/)
+
+  *Wendi Li, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen*
+  
+  **Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation**. 2022 [Paper](https://arxiv.org/abs/2212.11868)
+  
+  *Xiaoyu Zhang, Xin Xin, Dongdong Li, Wenxuan Liu, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren*
+
 **Towards Knowledge-Based Recommender Dialog System**. ACL, 2019. [Paper](https://arxiv.org/pdf/1908.05391)
     
   *Qibin Chen, Junyang Lin et al*
@@ -173,17 +188,10 @@ In this repository, we summarise a paper list of works in conversational recomme
 
   *Zujie Liang, Huang Hu, Can Xu, Jian Miao, Yingying He, Yining Chen, Xiubo Geng, Fan Liang, Daxin Jiang*
   
-**Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning**. 2022  [Paper](https://arxiv.org/abs/2206.09363)
 
-  *Xiaolei Wang, Kun Zhou, Ji-Rong Wen, Wayne Xin Zhao*
-  
-**TREA: Tree-structure Reasoning Schema for Conversational Recommendation**. 2023 [Paper](https://aclanthology.org/2023.acl-long.167/)
 
-  *Wendi Li, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen*
+
   
-  **Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation**. 2022 [Paper](https://arxiv.org/abs/2212.11868)
-  
-  *Xiaoyu Zhang, Xin Xin, Dongdong Li, Wenxuan Liu, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren*
 
 ### [External Guidance in Holistic CRS Methods](#content)
 
