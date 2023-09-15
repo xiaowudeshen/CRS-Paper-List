@@ -5,7 +5,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 
 
 - Contributed by **[Victor Li](https://lichuangnus.github.io/)** and collaboration is welcome.
-- Our [survey paper](https://arxiv.org/abs/2309.07682) on holistic CRS Survey has been accepted to the [KaRS Workshop](https://kars-workshop.github.io/2023/about/), RecSys 2023, Singapore. 
+- Our [survey paper on holistic CRS](https://arxiv.org/abs/2309.07682) has been accepted to the [KaRS Workshop](https://kars-workshop.github.io/2023/about/), RecSys 2023, Singapore. 
 - Please follow [this link](./README_by_year.md) to view papers chronologically. 
 
 <img src="Figure1.png" alt="Alt text" width="700">
