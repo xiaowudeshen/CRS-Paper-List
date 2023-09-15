@@ -45,6 +45,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 
 
 **A Conversation is Worth A Thousand Recommendations: A Survey of Holistic Conversational Recommender Systems** 2023. [Paper](https://arxiv.org/pdf/2309.07682.pdf)
+  
   *Chuang Li, Hengchang Hu, Yan Zhang, Min-Yen Kan, Haizhou Li*
 
 
@@ -121,6 +122,7 @@ In this repository, we summarise a paper list of works in conversational recomme
 ## [Knowledge-enhanced Holistic CRS Models](#content)
 
 **LATTE: A Framework for Learning Item-Features to Make a Domain-Expert for Effective Conversational Recommendation** 2023 [Paper](https://dl.acm.org/doi/10.1145/3580305.3599401)
+
  *Taeho Kim, Juwon Yu, Won-Yong Shin, Hyunyoung Lee, Ji-hui Im, Sang-Wook Kim*
 
  **Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning**. 2022  [Paper](https://arxiv.org/abs/2206.09363)
