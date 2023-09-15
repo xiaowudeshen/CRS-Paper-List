@@ -16,6 +16,10 @@ Paper from Year <a href="#2023">2023</a> <a href="#2022">2022</a> <a href="#2021
 
 ## [2023](#content)
 
+**A Conversation is Worth A Thousand Recommendations: A Survey of Holistic Conversational Recommender Systems** 2023. [Paper](https://arxiv.org/pdf/2309.07682.pdf)
+  
+  *Chuang Li, Hengchang Hu, Yan Zhang, Min-Yen Kan, Haizhou Li*
+
 **Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning**. 2023 [Paper](https://arxiv.org/abs/2210.05901)
  
   *Hui-Chi Kuo, Yun-Nung Chen*
