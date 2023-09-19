@@ -1,15 +1,25 @@
 [//]:<!the template comes from this repo: https://github.com/teacherpeterpan/Question-Generation-Paper-List>
 
-# CRS-Paper-List
+# CRS-Paper-List ([A Survey of Holistic CRS](https://arxiv.org/abs/2309.07682))
 In this repository, we summarise a paper list of works in conversational recommendation systems and their related areas.
-
-
 - Contributed by **[Victor Li](https://lichuangnus.github.io/)** and collaboration is welcome.
 - Our [survey paper on holistic CRS](https://arxiv.org/abs/2309.07682) has been accepted to the [KaRS Workshop](https://kars-workshop.github.io/2023/about/), RecSys 2023, Singapore. 
-- Please follow [this link](./README_by_year.md) to view papers chronologically. 
+- Please follow [this link](./README_by_year.md) to view papers chronologically.
 
 <img src="Figure1.png" alt="Alt text" width="700">
 
+## **Citation**
+```
+@InProceedings{li2023conversation,
+  title={A Conversation is Worth A Thousand Recommendations: A Survey of Holistic Conversational Recommender Systems},
+  author={Li, Chuang and Hu, Hengchang and Zhang, Yan and Kan, Min-Yen and Li, Haizhou},
+  booktitle={KaRS Workshop at RecSys '23},
+  address = {Singapore},
+  year={2023},
+  URL = {https://arxiv.org/abs/2309.07682v1},
+  keywords = {Conversational Recommender Systems, interactive dialog systems}
+}
+```
 ## [Content](#content)
 
 <table align="left">
