@@ -17,7 +17,7 @@ In this repository, we summarise a paper list of works in conversational recomme
   address = {Singapore},
   year={2023},
   URL = {https://arxiv.org/abs/2309.07682v1},
-  keywords = {Conversational Recommender Systems, interactive dialog systems}
+  keywords = {Conversational Recommender Systems, interactive dialogue systems}
 }
 ```
 ## [Content](#content)
